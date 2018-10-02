@@ -1,0 +1,395 @@
+fileFormatVersion: 2
+guid: 53ca3c806e2b9bc4093e859ad1e88275
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: '3D View: 01 LANDSCAPE'
+    100002: 99599_HOST_GND Pole-Top Luminaires [518179]
+    100004: 99599_HOST_GND Pole-Top Luminaires [518179]_1
+    100006: 99599_HOST_GND Pole-Top Luminaires [518996]_2
+    100008: 99599_HOST_GND Pole-Top Luminaires [519034]_3
+    100010: 99599_HOST_GND Pole-Top Luminaires [519442]_4
+    100012: 99599_HOST_GND Pole-Top Luminaires [519592]_5
+    100014: 99599_HOST_GND Pole-Top Luminaires [520001]_6
+    100016: Bollard Bollard [848345]
+    100018: FencingA
+    100020: FencingB
+    100022: FencingC
+    100024: FIRE HYDRANT FIRE HYDRANT [395391]
+    100026: FLAG POLE FLAG POLE [392816]
+    100028: Floor 250mm_Concrete Sidewalk [361026]
+    100030: Floor 250mm_Concrete Sidewalk [602239]
+    100032: Floor 250mm_Landscape Bioswale [361023]
+    100034: Floor 250mm_Landscape Bioswale [361130]
+    100036: Floor 400mm_FLUSH CURB [361084]
+    100038: Floor Asphalt Driveway [361010]
+    100040: Floor Asphalt Driveway [368790]
+    100042: Floor Concrete Tarmac [655984]
+    100044: Floor Concrete Walkway [361014]
+    100046: Floor Metal Bridge [858616]
+    100048: Floor PARKING LINES [361207]
+    100050: Floor SOD [604206]
+    100052: Floor TARMAC LINES [449920]
+    100054: GATE FENCE Gate_15571 [678404]
+    100056: GATE MAN DOOR Gate_15571 [670680]
+    100058: Gate Post Gate Posts [688765]
+    100060: gate post6 gate post [683660]
+    100062: Gate_15571 2 Gate_15571 [361027]
+    100064: gh3_bike ring Bike Ring [361453]
+    100066: //RootNode
+    100068: PARKING RECEPTACLE PARKING RECEPTACLE [889219]
+    100070: "Railing Omega II Fence System OFS \u2013 8H\u2019 Elite fence line horizontal
+      welded wire series w/ 2\u201D square post [556717]"
+    100072: "Railing Omega II Fence System OFS \u2013 8H\u2019 Elite fence line horizontal
+      welded wire series w/ 2\u201D square post [688453]"
+    100074: "Railing Omega II Fence Systems OFS \u2013 44 5/8\u201D x 93.75\u201D
+      Elite double swing gate w/ horizontal welded wire w/ 3\u201D square post [852327]"
+    100076: "Railing Omega II Fence Systems OFS \u2013 44 5/8\u201D x 93.75\u201D
+      Elite double swing gate w/ horizontal welded wire w/ 3\u201D square post [852712]"
+    100078: "Railing Omega II Fence Systems OFS \u2013 44 5/8\u201D x 93.75\u201D
+      Elite double swing gate w/ horizontal welded wire w/ 3\u201D square post [853866]"
+    100080: Railing Transformer Guard [905704]
+    100082: Transformer Transformer [611754]
+    100084: WHEEL STOP 2000mm x 150mm x 150mm [827512]
+    400000: '3D View: 01 LANDSCAPE'
+    400002: 99599_HOST_GND Pole-Top Luminaires [518179]
+    400004: 99599_HOST_GND Pole-Top Luminaires [518179]_1
+    400006: 99599_HOST_GND Pole-Top Luminaires [518996]_2
+    400008: 99599_HOST_GND Pole-Top Luminaires [519034]_3
+    400010: 99599_HOST_GND Pole-Top Luminaires [519442]_4
+    400012: 99599_HOST_GND Pole-Top Luminaires [519592]_5
+    400014: 99599_HOST_GND Pole-Top Luminaires [520001]_6
+    400016: Bollard Bollard [848345]
+    400018: FencingA
+    400020: FencingB
+    400022: FencingC
+    400024: FIRE HYDRANT FIRE HYDRANT [395391]
+    400026: FLAG POLE FLAG POLE [392816]
+    400028: Floor 250mm_Concrete Sidewalk [361026]
+    400030: Floor 250mm_Concrete Sidewalk [602239]
+    400032: Floor 250mm_Landscape Bioswale [361023]
+    400034: Floor 250mm_Landscape Bioswale [361130]
+    400036: Floor 400mm_FLUSH CURB [361084]
+    400038: Floor Asphalt Driveway [361010]
+    400040: Floor Asphalt Driveway [368790]
+    400042: Floor Concrete Tarmac [655984]
+    400044: Floor Concrete Walkway [361014]
+    400046: Floor Metal Bridge [858616]
+    400048: Floor PARKING LINES [361207]
+    400050: Floor SOD [604206]
+    400052: Floor TARMAC LINES [449920]
+    400054: GATE FENCE Gate_15571 [678404]
+    400056: GATE MAN DOOR Gate_15571 [670680]
+    400058: Gate Post Gate Posts [688765]
+    400060: gate post6 gate post [683660]
+    400062: Gate_15571 2 Gate_15571 [361027]
+    400064: gh3_bike ring Bike Ring [361453]
+    400066: //RootNode
+    400068: PARKING RECEPTACLE PARKING RECEPTACLE [889219]
+    400070: "Railing Omega II Fence System OFS \u2013 8H\u2019 Elite fence line horizontal
+      welded wire series w/ 2\u201D square post [556717]"
+    400072: "Railing Omega II Fence System OFS \u2013 8H\u2019 Elite fence line horizontal
+      welded wire series w/ 2\u201D square post [688453]"
+    400074: "Railing Omega II Fence Systems OFS \u2013 44 5/8\u201D x 93.75\u201D
+      Elite double swing gate w/ horizontal welded wire w/ 3\u201D square post [852327]"
+    400076: "Railing Omega II Fence Systems OFS \u2013 44 5/8\u201D x 93.75\u201D
+      Elite double swing gate w/ horizontal welded wire w/ 3\u201D square post [852712]"
+    400078: "Railing Omega II Fence Systems OFS \u2013 44 5/8\u201D x 93.75\u201D
+      Elite double swing gate w/ horizontal welded wire w/ 3\u201D square post [853866]"
+    400080: Railing Transformer Guard [905704]
+    400082: Transformer Transformer [611754]
+    400084: WHEEL STOP 2000mm x 150mm x 150mm [827512]
+    2000000: '3D View: 01 LANDSCAPE'
+    2100000: Subgrade
+    2100002: Asphalt, Parking
+    2100004: Concrete PED
+    2100006: No Name
+    2100008: Gravel
+    2100010: Concrete, Cast-in-Place gray
+    2100012: Glass
+    2100014: Default
+    2100016: CONCRETE CAISSON
+    2100018: Concrete DARK
+    2100020: Paint - Black
+    2100022: Yellow Paint
+    2100024: Steel
+    2100026: Metal Grate
+    2100028: 'Material #112'
+    2300000: 99599_HOST_GND Pole-Top Luminaires [518179]
+    2300002: Bollard Bollard [848345]
+    2300004: FencingA
+    2300006: FencingB
+    2300008: FencingC
+    2300010: FIRE HYDRANT FIRE HYDRANT [395391]
+    2300012: FLAG POLE FLAG POLE [392816]
+    2300014: Floor 250mm_Concrete Sidewalk [361026]
+    2300016: Floor 250mm_Concrete Sidewalk [602239]
+    2300018: Floor 250mm_Landscape Bioswale [361023]
+    2300020: Floor 250mm_Landscape Bioswale [361130]
+    2300022: Floor 400mm_FLUSH CURB [361084]
+    2300024: Floor Asphalt Driveway [361010]
+    2300026: Floor Asphalt Driveway [368790]
+    2300028: Floor Concrete Tarmac [655984]
+    2300030: Floor Concrete Walkway [361014]
+    2300032: Floor Metal Bridge [858616]
+    2300034: Floor PARKING LINES [361207]
+    2300036: Floor SOD [604206]
+    2300038: Floor TARMAC LINES [449920]
+    2300040: GATE FENCE Gate_15571 [678404]
+    2300042: GATE MAN DOOR Gate_15571 [670680]
+    2300044: Gate Post Gate Posts [688765]
+    2300046: gate post6 gate post [683660]
+    2300048: Gate_15571 2 Gate_15571 [361027]
+    2300050: gh3_bike ring Bike Ring [361453]
+    2300052: PARKING RECEPTACLE PARKING RECEPTACLE [889219]
+    2300054: "Railing Omega II Fence System OFS \u2013 8H\u2019 Elite fence line horizontal
+      welded wire series w/ 2\u201D square post [556717]"
+    2300056: "Railing Omega II Fence Systems OFS \u2013 44 5/8\u201D x 93.75\u201D
+      Elite double swing gate w/ horizontal welded wire w/ 3\u201D square post [852327]"
+    2300058: "Railing Omega II Fence Systems OFS \u2013 44 5/8\u201D x 93.75\u201D
+      Elite double swing gate w/ horizontal welded wire w/ 3\u201D square post [852712]"
+    2300060: "Railing Omega II Fence Systems OFS \u2013 44 5/8\u201D x 93.75\u201D
+      Elite double swing gate w/ horizontal welded wire w/ 3\u201D square post [853866]"
+    2300062: Railing Transformer Guard [905704]
+    2300064: Transformer Transformer [611754]
+    2300066: WHEEL STOP 2000mm x 150mm x 150mm [827512]
+    3300000: 99599_HOST_GND Pole-Top Luminaires [518179]
+    3300002: Bollard Bollard [848345]
+    3300004: FencingA
+    3300006: FencingB
+    3300008: FencingC
+    3300010: FIRE HYDRANT FIRE HYDRANT [395391]
+    3300012: FLAG POLE FLAG POLE [392816]
+    3300014: Floor 250mm_Concrete Sidewalk [361026]
+    3300016: Floor 250mm_Concrete Sidewalk [602239]
+    3300018: Floor 250mm_Landscape Bioswale [361023]
+    3300020: Floor 250mm_Landscape Bioswale [361130]
+    3300022: Floor 400mm_FLUSH CURB [361084]
+    3300024: Floor Asphalt Driveway [361010]
+    3300026: Floor Asphalt Driveway [368790]
+    3300028: Floor Concrete Tarmac [655984]
+    3300030: Floor Concrete Walkway [361014]
+    3300032: Floor Metal Bridge [858616]
+    3300034: Floor PARKING LINES [361207]
+    3300036: Floor SOD [604206]
+    3300038: Floor TARMAC LINES [449920]
+    3300040: GATE FENCE Gate_15571 [678404]
+    3300042: GATE MAN DOOR Gate_15571 [670680]
+    3300044: Gate Post Gate Posts [688765]
+    3300046: gate post6 gate post [683660]
+    3300048: Gate_15571 2 Gate_15571 [361027]
+    3300050: gh3_bike ring Bike Ring [361453]
+    3300052: PARKING RECEPTACLE PARKING RECEPTACLE [889219]
+    3300054: "Railing Omega II Fence System OFS \u2013 8H\u2019 Elite fence line horizontal
+      welded wire series w/ 2\u201D square post [556717]"
+    3300056: "Railing Omega II Fence Systems OFS \u2013 44 5/8\u201D x 93.75\u201D
+      Elite double swing gate w/ horizontal welded wire w/ 3\u201D square post [852327]"
+    3300058: "Railing Omega II Fence Systems OFS \u2013 44 5/8\u201D x 93.75\u201D
+      Elite double swing gate w/ horizontal welded wire w/ 3\u201D square post [852712]"
+    3300060: "Railing Omega II Fence Systems OFS \u2013 44 5/8\u201D x 93.75\u201D
+      Elite double swing gate w/ horizontal welded wire w/ 3\u201D square post [853866]"
+    3300062: Railing Transformer Guard [905704]
+    3300064: Transformer Transformer [611754]
+    3300066: WHEEL STOP 2000mm x 150mm x 150mm [827512]
+    4300000: Floor Asphalt Driveway [361010]
+    4300002: Floor Concrete Walkway [361014]
+    4300004: Floor 250mm_Landscape Bioswale [361023]
+    4300006: Floor 250mm_Concrete Sidewalk [361026]
+    4300008: Gate_15571 2 Gate_15571 [361027]
+    4300010: Floor 400mm_FLUSH CURB [361084]
+    4300012: Floor 250mm_Landscape Bioswale [361130]
+    4300014: Floor PARKING LINES [361207]
+    4300016: gh3_bike ring Bike Ring [361453]
+    4300018: Floor Asphalt Driveway [368790]
+    4300020: FLAG POLE FLAG POLE [392816]
+    4300022: FIRE HYDRANT FIRE HYDRANT [395391]
+    4300024: Floor TARMAC LINES [449920]
+    4300026: 99599_HOST_GND Pole-Top Luminaires [518179]
+    4300028: "Railing Omega II Fence System OFS \u2013 8H\u2019 Elite fence line horizontal
+      welded wire series w/ 2\u201D square post [556717]"
+    4300030: Floor 250mm_Concrete Sidewalk [602239]
+    4300032: Floor SOD [604206]
+    4300034: Transformer Transformer [611754]
+    4300036: Floor Concrete Tarmac [655984]
+    4300038: GATE MAN DOOR Gate_15571 [670680]
+    4300040: GATE FENCE Gate_15571 [678404]
+    4300042: gate post6 gate post [683660]
+    4300044: Gate Post Gate Posts [688765]
+    4300046: WHEEL STOP 2000mm x 150mm x 150mm [827512]
+    4300048: Bollard Bollard [848345]
+    4300050: "Railing Omega II Fence Systems OFS \u2013 44 5/8\u201D x 93.75\u201D
+      Elite double swing gate w/ horizontal welded wire w/ 3\u201D square post [852327]"
+    4300052: "Railing Omega II Fence Systems OFS \u2013 44 5/8\u201D x 93.75\u201D
+      Elite double swing gate w/ horizontal welded wire w/ 3\u201D square post [852712]"
+    4300054: "Railing Omega II Fence Systems OFS \u2013 44 5/8\u201D x 93.75\u201D
+      Elite double swing gate w/ horizontal welded wire w/ 3\u201D square post [853866]"
+    4300056: Floor Metal Bridge [858616]
+    4300058: PARKING RECEPTACLE PARKING RECEPTACLE [889219]
+    4300060: Railing Transformer Guard [905704]
+    4300062: FencingB
+    4300064: FencingA
+    4300066: FencingC
+    10800000: 99599_HOST_GND Pole-Top Luminaires [518179]_1
+    10800002: 99599_HOST_GND Pole-Top Luminaires [518996]_2
+    10800004: 99599_HOST_GND Pole-Top Luminaires [519034]_3
+    10800006: 99599_HOST_GND Pole-Top Luminaires [519442]_4
+    10800008: 99599_HOST_GND Pole-Top Luminaires [519592]_5
+    10800010: 99599_HOST_GND Pole-Top Luminaires [520001]_6
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Asphalt, Parking
+    second: {fileID: 2100000, guid: 3729092c838a479438e18944ed1acf83, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CONCRETE CAISSON
+    second: {fileID: 2100000, guid: 3b0b05f249275744abe3e07344e6f57b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Concrete DARK
+    second: {fileID: 2100000, guid: 426c8412ceea86e4fa79b1f00c17ba70, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Concrete PED
+    second: {fileID: 2100000, guid: de78003e32ce1c74daa2900005fa2c12, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Concrete, Cast-in-Place gray
+    second: {fileID: 2100000, guid: a9ef709235eb1ae4b9717b38f88b1033, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Default
+    second: {fileID: 2100000, guid: ad17cefd0f469aa4e936bfbae843c35c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass
+    second: {fileID: 2100000, guid: 2ea5bc6e2eb33514a897b8e1717a27d9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gravel
+    second: {fileID: 2100000, guid: 3c665e0a5a9047d4eb9ba61bd9f7f474, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #112'
+    second: {fileID: 2100000, guid: 37411ce05418978408df44c614afffcb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metal Grate
+    second: {fileID: 2100000, guid: 25e827ad36f030b41a6f0b2c80405f4f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: 010d13df2c8a6f3418bbe43b6bb065bc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Paint - Black
+    second: {fileID: 2100000, guid: 61b3e4d1f5d076e41b37d4527ce4dcd6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Steel
+    second: {fileID: 2100000, guid: 87ee477b0209eda4182f4daa5c30f0c3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Subgrade
+    second: {fileID: 2100000, guid: 9419b23cf1e4bac4ba0ef534d226cf70, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Yellow Paint
+    second: {fileID: 2100000, guid: 9a52bd5ba81b94943a65a31f53eb310e, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

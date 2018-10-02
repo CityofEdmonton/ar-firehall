@@ -1,0 +1,686 @@
+fileFormatVersion: 2
+guid: 2cf15a22a8f515c449e27bd9c534c0a1
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: 08-Door-Curtain Wall Door - Single Swing [356444]
+    100002: '3D View: 02 BUILDING'
+    100004: ANTENNA1 ANTENNA [356665]
+    100006: Appliance - Fridge - Side By Side Fridge [376027]
+    100008: Basic Roof Generic Roof - 300mm [356232]
+    100010: Basic Roof Generic Roof - 400mm [356052]
+    100012: Basic Wall 505mm - FOUNDATION WALL [465596]
+    100014: Basic Wall Generic - 200mm [381160]
+    100016: Basic Wall PATIO SCREEN [356405]
+    100018: Basic Wall Wall 100mm [356127]
+    100020: Basic Wall Wall 200mm [356136]
+    100022: Basic Wall Wall 505mm LOWER-NZE [356121]
+    100024: Basic Wall Wall 505mm LOWER-NZE [356123]
+    100026: Basic Wall Wall 505mm LOWER-NZE [356125]
+    100028: Basic Wall Wall 505mm LOWER-NZE [356205]
+    100030: Basic Wall Wall 505mm LOWER-NZE [356206]
+    100032: Basic Wall Wall 505mm UPPER [356124]
+    100034: Basic Wall Wall 505mm UPPER [356172]
+    100036: Basic Wall Wall 505mm UPPER [356181]
+    100038: BAY WINDOW 72" [432040]
+    100040: BEAMS BEAMS [356108]
+    100042: //RootNode
+    100044: Curtain_wall_folding_doors_11229 Curtain_wall_folding_doors_11229 [768549]
+    100046: Door ENTRANCE 915x2135mm_Masonry_Solid Flush [356290]
+    100048: Door ENTRANCE 915x2135mm_Masonry_Solid Flush [356415]
+    100050: Door ENTRANCE 915x2135mm_Masonry_Solid Flush [595025]
+    100052: Door ENTRANCE 915x2135mm_Masonry_Solid Flush [595030]
+    100054: Door ENTRANCE 915x2135mm_Masonry_Solid Flush [595036]
+    100056: Door ENTRANCE 915x2135mm_Masonry_Solid Flush [595037]
+    100058: Door_HM Single 915x2135mm_Masonry_Solid Flush [356209]
+    100060: Door_HM Single 915x2135mm_Masonry_Solid Flush [356239]
+    100062: Doors - Residential - Interior - Hinged Single - Suite Entry - 3'-0" -
+      D2 [356166]
+    100064: Floor 200mm_Concrete Floor Slab [356111]
+    100066: Floor Concrete Tarmac [595046]
+    100068: Floor Generic Floor - 400mm [489092]
+    100070: FRAMED PANEL Glazed [768565]
+    100072: FRAMED PANEL Spandrel [768553]
+    100074: Gas_BBQ_-_6_Burner_16419 Gas_BBQ_-_6_Burner_16419 [275352]
+    100076: Internal_Door_-_openable_in_3D_13628 42" [356281]
+    100078: Locker-Single 610mm x 610mm x 1829mm [275546]
+    100080: M_Curtain Wall Sgl Glass M_Curtain Wall Sgl Glass [768547]
+    100082: M_Curtain Wall Sgl Glass M_Curtain Wall Sgl Glass [768573]
+    100084: M_Curtain Wall Sgl Glass M_Curtain Wall Sgl Glass [850173]
+    100086: M_Curtain Wall Sgl Glass M_Curtain Wall Sgl Glass [850191]
+    100088: M_Fixed 1000 x 1400 mm [356403]
+    100090: M_Fixed 1500 x 1200mm [419126]
+    100092: M_Fixed 800W x 1800H [356273]
+    100094: Monolithic Run 190mm Depth [567804]
+    100096: PARAPET PARAPET [515048]
+    100098: Plumbing - Shower - Rectangle_3D _Reload [275548]
+    100100: Plumbing - Sink - Washroom - Wall_3D Base [275550]
+    100102: Plumbing - Toilet - Floor Mount - Commercial_3D Base [275549]
+    100104: POCHE WINDOW 72" [458512]
+    100106: Precast Stair Stair [567795]
+    100108: PV PV [567071]
+    100110: qf_garland_mst43_cat Requires Type Catalog QF_Garland_MST43_cat.txt [376022]
+    100112: Railing Railing 1 [567796]
+    100114: Rectangular Mullion CW - 150x200 - black [850221]
+    100116: Rectangular Mullion CW - 50x200 - black [768566]
+    100118: Rectangular Mullion CW - 50x200 - retail - silicone joint [356376]
+    100120: Rectangular Mullion CW - 50x200 - retail [356366]
+    100122: SCISSOR TRUSS2 SCISSOR TRUSS [694661]
+    100124: SERVICE STAIR SERVICE STAIR [563026]
+    100126: signal light signal light [552274]
+    100128: signal light signal light [552531]
+    100130: System Panel CURT_Glazed [824745]
+    100132: System Panel CURT_Glazed-Mirrored [356357]
+    100134: Washroom Accessories - Robe Hook_3D Base [438461]
+    400000: 08-Door-Curtain Wall Door - Single Swing [356444]
+    400002: '3D View: 02 BUILDING'
+    400004: ANTENNA1 ANTENNA [356665]
+    400006: Appliance - Fridge - Side By Side Fridge [376027]
+    400008: Basic Roof Generic Roof - 300mm [356232]
+    400010: Basic Roof Generic Roof - 400mm [356052]
+    400012: Basic Wall 505mm - FOUNDATION WALL [465596]
+    400014: Basic Wall Generic - 200mm [381160]
+    400016: Basic Wall PATIO SCREEN [356405]
+    400018: Basic Wall Wall 100mm [356127]
+    400020: Basic Wall Wall 200mm [356136]
+    400022: Basic Wall Wall 505mm LOWER-NZE [356121]
+    400024: Basic Wall Wall 505mm LOWER-NZE [356123]
+    400026: Basic Wall Wall 505mm LOWER-NZE [356125]
+    400028: Basic Wall Wall 505mm LOWER-NZE [356205]
+    400030: Basic Wall Wall 505mm LOWER-NZE [356206]
+    400032: Basic Wall Wall 505mm UPPER [356124]
+    400034: Basic Wall Wall 505mm UPPER [356172]
+    400036: Basic Wall Wall 505mm UPPER [356181]
+    400038: BAY WINDOW 72" [432040]
+    400040: BEAMS BEAMS [356108]
+    400042: //RootNode
+    400044: Curtain_wall_folding_doors_11229 Curtain_wall_folding_doors_11229 [768549]
+    400046: Door ENTRANCE 915x2135mm_Masonry_Solid Flush [356290]
+    400048: Door ENTRANCE 915x2135mm_Masonry_Solid Flush [356415]
+    400050: Door ENTRANCE 915x2135mm_Masonry_Solid Flush [595025]
+    400052: Door ENTRANCE 915x2135mm_Masonry_Solid Flush [595030]
+    400054: Door ENTRANCE 915x2135mm_Masonry_Solid Flush [595036]
+    400056: Door ENTRANCE 915x2135mm_Masonry_Solid Flush [595037]
+    400058: Door_HM Single 915x2135mm_Masonry_Solid Flush [356209]
+    400060: Door_HM Single 915x2135mm_Masonry_Solid Flush [356239]
+    400062: Doors - Residential - Interior - Hinged Single - Suite Entry - 3'-0" -
+      D2 [356166]
+    400064: Floor 200mm_Concrete Floor Slab [356111]
+    400066: Floor Concrete Tarmac [595046]
+    400068: Floor Generic Floor - 400mm [489092]
+    400070: FRAMED PANEL Glazed [768565]
+    400072: FRAMED PANEL Spandrel [768553]
+    400074: Gas_BBQ_-_6_Burner_16419 Gas_BBQ_-_6_Burner_16419 [275352]
+    400076: Internal_Door_-_openable_in_3D_13628 42" [356281]
+    400078: Locker-Single 610mm x 610mm x 1829mm [275546]
+    400080: M_Curtain Wall Sgl Glass M_Curtain Wall Sgl Glass [768547]
+    400082: M_Curtain Wall Sgl Glass M_Curtain Wall Sgl Glass [768573]
+    400084: M_Curtain Wall Sgl Glass M_Curtain Wall Sgl Glass [850173]
+    400086: M_Curtain Wall Sgl Glass M_Curtain Wall Sgl Glass [850191]
+    400088: M_Fixed 1000 x 1400 mm [356403]
+    400090: M_Fixed 1500 x 1200mm [419126]
+    400092: M_Fixed 800W x 1800H [356273]
+    400094: Monolithic Run 190mm Depth [567804]
+    400096: PARAPET PARAPET [515048]
+    400098: Plumbing - Shower - Rectangle_3D _Reload [275548]
+    400100: Plumbing - Sink - Washroom - Wall_3D Base [275550]
+    400102: Plumbing - Toilet - Floor Mount - Commercial_3D Base [275549]
+    400104: POCHE WINDOW 72" [458512]
+    400106: Precast Stair Stair [567795]
+    400108: PV PV [567071]
+    400110: qf_garland_mst43_cat Requires Type Catalog QF_Garland_MST43_cat.txt [376022]
+    400112: Railing Railing 1 [567796]
+    400114: Rectangular Mullion CW - 150x200 - black [850221]
+    400116: Rectangular Mullion CW - 50x200 - black [768566]
+    400118: Rectangular Mullion CW - 50x200 - retail - silicone joint [356376]
+    400120: Rectangular Mullion CW - 50x200 - retail [356366]
+    400122: SCISSOR TRUSS2 SCISSOR TRUSS [694661]
+    400124: SERVICE STAIR SERVICE STAIR [563026]
+    400126: signal light signal light [552274]
+    400128: signal light signal light [552531]
+    400130: System Panel CURT_Glazed [824745]
+    400132: System Panel CURT_Glazed-Mirrored [356357]
+    400134: Washroom Accessories - Robe Hook_3D Base [438461]
+    2000000: '3D View: 02 BUILDING'
+    2100000: Iowa 6 Burner Gas BBQ - Chrome
+    2100002: Iowa 6 Burner Gas BBQ - Base
+    2100004: Iowa 6 Burner Gas BBQ - Caster
+    2100006: Iowa 6 Burner Gas BBQ - Handle
+    2100008: Generic
+    2100010: Iowa 6 Burner Gas BBQ - Dial
+    2100012: Iowa 6 Burner Gas BBQ - Extras
+    2100014: Iowa 6 Burner Gas BBQ - Base Handle
+    2100016: No Name
+    2100018: 22 Fixture - Faucet - Shower
+    2100020: 22 Fixture - Shower
+    2100022: 22 Fixture - Toilet
+    2100024: 22 Fixture - Flush Valve
+    2100026: 22 Fixture - Faucet - Sink
+    2100028: 22 Fixture - Sink
+    2100030: Drywall
+    2100032: Roofing, EPDM Membrane
+    2100034: BRICK LOWER
+    2100036: Concrete, Precast
+    2100038: Concrete
+    2100040: BRICK UPPER
+    2100042: Default Wall
+    2100044: Door - Panel
+    2100046: 08 Frame - Solid Wood
+    2100048: Door - Frame
+    2100050: DOOR EXT - PANEL
+    2100052: DOOR EXT - FRAME
+    2100054: Glass
+    2100056: Steel, Black
+    2100058: Wood - Ponderosa Pine - finished White
+    2100060: '-'
+    2100062: QF_Finishes_Dark Grey
+    2100064: QF_Finishes_Black
+    2100066: QF_Finishes_Stainless Steel
+    2100068: MULLION - METAL
+    2100070: Trafficlight - Bulb glass 2
+    2100072: Trafficlight - Bulb glass 1
+    2100074: Traffic light (Body)
+    2100076: SOLAR PANEL
+    2100078: METAL BLACK
+    2100080: Subgrade
+    2100082: Concrete DARK
+    2100084: Glass - Mirror
+    2300000: 08-Door-Curtain Wall Door - Single Swing [356444]
+    2300002: ANTENNA1 ANTENNA [356665]
+    2300004: Appliance - Fridge - Side By Side Fridge [376027]
+    2300006: Basic Roof Generic Roof - 300mm [356232]
+    2300008: Basic Roof Generic Roof - 400mm [356052]
+    2300010: Basic Wall 505mm - FOUNDATION WALL [465596]
+    2300012: Basic Wall Generic - 200mm [381160]
+    2300014: Basic Wall PATIO SCREEN [356405]
+    2300016: Basic Wall Wall 100mm [356127]
+    2300018: Basic Wall Wall 200mm [356136]
+    2300020: Basic Wall Wall 505mm LOWER-NZE [356121]
+    2300022: Basic Wall Wall 505mm LOWER-NZE [356123]
+    2300024: Basic Wall Wall 505mm LOWER-NZE [356125]
+    2300026: Basic Wall Wall 505mm LOWER-NZE [356205]
+    2300028: Basic Wall Wall 505mm LOWER-NZE [356206]
+    2300030: Basic Wall Wall 505mm UPPER [356124]
+    2300032: Basic Wall Wall 505mm UPPER [356172]
+    2300034: Basic Wall Wall 505mm UPPER [356181]
+    2300036: BAY WINDOW 72" [432040]
+    2300038: BEAMS BEAMS [356108]
+    2300040: Curtain_wall_folding_doors_11229 Curtain_wall_folding_doors_11229 [768549]
+    2300042: Door ENTRANCE 915x2135mm_Masonry_Solid Flush [356290]
+    2300044: Door ENTRANCE 915x2135mm_Masonry_Solid Flush [356415]
+    2300046: Door ENTRANCE 915x2135mm_Masonry_Solid Flush [595025]
+    2300048: Door ENTRANCE 915x2135mm_Masonry_Solid Flush [595030]
+    2300050: Door ENTRANCE 915x2135mm_Masonry_Solid Flush [595036]
+    2300052: Door ENTRANCE 915x2135mm_Masonry_Solid Flush [595037]
+    2300054: Door_HM Single 915x2135mm_Masonry_Solid Flush [356209]
+    2300056: Door_HM Single 915x2135mm_Masonry_Solid Flush [356239]
+    2300058: Doors - Residential - Interior - Hinged Single - Suite Entry - 3'-0"
+      - D2 [356166]
+    2300060: Floor 200mm_Concrete Floor Slab [356111]
+    2300062: Floor Concrete Tarmac [595046]
+    2300064: Floor Generic Floor - 400mm [489092]
+    2300066: FRAMED PANEL Glazed [768565]
+    2300068: FRAMED PANEL Spandrel [768553]
+    2300070: Gas_BBQ_-_6_Burner_16419 Gas_BBQ_-_6_Burner_16419 [275352]
+    2300072: Internal_Door_-_openable_in_3D_13628 42" [356281]
+    2300074: Locker-Single 610mm x 610mm x 1829mm [275546]
+    2300076: M_Curtain Wall Sgl Glass M_Curtain Wall Sgl Glass [768547]
+    2300078: M_Curtain Wall Sgl Glass M_Curtain Wall Sgl Glass [768573]
+    2300080: M_Curtain Wall Sgl Glass M_Curtain Wall Sgl Glass [850173]
+    2300082: M_Curtain Wall Sgl Glass M_Curtain Wall Sgl Glass [850191]
+    2300084: M_Fixed 1000 x 1400 mm [356403]
+    2300086: M_Fixed 1500 x 1200mm [419126]
+    2300088: M_Fixed 800W x 1800H [356273]
+    2300090: Monolithic Run 190mm Depth [567804]
+    2300092: PARAPET PARAPET [515048]
+    2300094: Plumbing - Shower - Rectangle_3D _Reload [275548]
+    2300096: Plumbing - Sink - Washroom - Wall_3D Base [275550]
+    2300098: Plumbing - Toilet - Floor Mount - Commercial_3D Base [275549]
+    2300100: POCHE WINDOW 72" [458512]
+    2300102: Precast Stair Stair [567795]
+    2300104: PV PV [567071]
+    2300106: qf_garland_mst43_cat Requires Type Catalog QF_Garland_MST43_cat.txt [376022]
+    2300108: Railing Railing 1 [567796]
+    2300110: Rectangular Mullion CW - 150x200 - black [850221]
+    2300112: Rectangular Mullion CW - 50x200 - black [768566]
+    2300114: Rectangular Mullion CW - 50x200 - retail - silicone joint [356376]
+    2300116: Rectangular Mullion CW - 50x200 - retail [356366]
+    2300118: SCISSOR TRUSS2 SCISSOR TRUSS [694661]
+    2300120: SERVICE STAIR SERVICE STAIR [563026]
+    2300122: signal light signal light [552274]
+    2300124: signal light signal light [552531]
+    2300126: System Panel CURT_Glazed [824745]
+    2300128: System Panel CURT_Glazed-Mirrored [356357]
+    2300130: Washroom Accessories - Robe Hook_3D Base [438461]
+    3300000: 08-Door-Curtain Wall Door - Single Swing [356444]
+    3300002: ANTENNA1 ANTENNA [356665]
+    3300004: Appliance - Fridge - Side By Side Fridge [376027]
+    3300006: Basic Roof Generic Roof - 300mm [356232]
+    3300008: Basic Roof Generic Roof - 400mm [356052]
+    3300010: Basic Wall 505mm - FOUNDATION WALL [465596]
+    3300012: Basic Wall Generic - 200mm [381160]
+    3300014: Basic Wall PATIO SCREEN [356405]
+    3300016: Basic Wall Wall 100mm [356127]
+    3300018: Basic Wall Wall 200mm [356136]
+    3300020: Basic Wall Wall 505mm LOWER-NZE [356121]
+    3300022: Basic Wall Wall 505mm LOWER-NZE [356123]
+    3300024: Basic Wall Wall 505mm LOWER-NZE [356125]
+    3300026: Basic Wall Wall 505mm LOWER-NZE [356205]
+    3300028: Basic Wall Wall 505mm LOWER-NZE [356206]
+    3300030: Basic Wall Wall 505mm UPPER [356124]
+    3300032: Basic Wall Wall 505mm UPPER [356172]
+    3300034: Basic Wall Wall 505mm UPPER [356181]
+    3300036: BAY WINDOW 72" [432040]
+    3300038: BEAMS BEAMS [356108]
+    3300040: Curtain_wall_folding_doors_11229 Curtain_wall_folding_doors_11229 [768549]
+    3300042: Door ENTRANCE 915x2135mm_Masonry_Solid Flush [356290]
+    3300044: Door ENTRANCE 915x2135mm_Masonry_Solid Flush [356415]
+    3300046: Door ENTRANCE 915x2135mm_Masonry_Solid Flush [595025]
+    3300048: Door ENTRANCE 915x2135mm_Masonry_Solid Flush [595030]
+    3300050: Door ENTRANCE 915x2135mm_Masonry_Solid Flush [595036]
+    3300052: Door ENTRANCE 915x2135mm_Masonry_Solid Flush [595037]
+    3300054: Door_HM Single 915x2135mm_Masonry_Solid Flush [356209]
+    3300056: Door_HM Single 915x2135mm_Masonry_Solid Flush [356239]
+    3300058: Doors - Residential - Interior - Hinged Single - Suite Entry - 3'-0"
+      - D2 [356166]
+    3300060: Floor 200mm_Concrete Floor Slab [356111]
+    3300062: Floor Concrete Tarmac [595046]
+    3300064: Floor Generic Floor - 400mm [489092]
+    3300066: FRAMED PANEL Glazed [768565]
+    3300068: FRAMED PANEL Spandrel [768553]
+    3300070: Gas_BBQ_-_6_Burner_16419 Gas_BBQ_-_6_Burner_16419 [275352]
+    3300072: Internal_Door_-_openable_in_3D_13628 42" [356281]
+    3300074: Locker-Single 610mm x 610mm x 1829mm [275546]
+    3300076: M_Curtain Wall Sgl Glass M_Curtain Wall Sgl Glass [768547]
+    3300078: M_Curtain Wall Sgl Glass M_Curtain Wall Sgl Glass [768573]
+    3300080: M_Curtain Wall Sgl Glass M_Curtain Wall Sgl Glass [850173]
+    3300082: M_Curtain Wall Sgl Glass M_Curtain Wall Sgl Glass [850191]
+    3300084: M_Fixed 1000 x 1400 mm [356403]
+    3300086: M_Fixed 1500 x 1200mm [419126]
+    3300088: M_Fixed 800W x 1800H [356273]
+    3300090: Monolithic Run 190mm Depth [567804]
+    3300092: PARAPET PARAPET [515048]
+    3300094: Plumbing - Shower - Rectangle_3D _Reload [275548]
+    3300096: Plumbing - Sink - Washroom - Wall_3D Base [275550]
+    3300098: Plumbing - Toilet - Floor Mount - Commercial_3D Base [275549]
+    3300100: POCHE WINDOW 72" [458512]
+    3300102: Precast Stair Stair [567795]
+    3300104: PV PV [567071]
+    3300106: qf_garland_mst43_cat Requires Type Catalog QF_Garland_MST43_cat.txt [376022]
+    3300108: Railing Railing 1 [567796]
+    3300110: Rectangular Mullion CW - 150x200 - black [850221]
+    3300112: Rectangular Mullion CW - 50x200 - black [768566]
+    3300114: Rectangular Mullion CW - 50x200 - retail - silicone joint [356376]
+    3300116: Rectangular Mullion CW - 50x200 - retail [356366]
+    3300118: SCISSOR TRUSS2 SCISSOR TRUSS [694661]
+    3300120: SERVICE STAIR SERVICE STAIR [563026]
+    3300122: signal light signal light [552274]
+    3300124: signal light signal light [552531]
+    3300126: System Panel CURT_Glazed [824745]
+    3300128: System Panel CURT_Glazed-Mirrored [356357]
+    3300130: Washroom Accessories - Robe Hook_3D Base [438461]
+    4300000: Gas_BBQ_-_6_Burner_16419 Gas_BBQ_-_6_Burner_16419 [275352]
+    4300002: Locker-Single 610mm x 610mm x 1829mm [275546]
+    4300004: Plumbing - Shower - Rectangle_3D _Reload [275548]
+    4300006: Plumbing - Toilet - Floor Mount - Commercial_3D Base [275549]
+    4300008: Plumbing - Sink - Washroom - Wall_3D Base [275550]
+    4300010: Basic Roof Generic Roof - 400mm [356052]
+    4300012: BEAMS BEAMS [356108]
+    4300014: Floor 200mm_Concrete Floor Slab [356111]
+    4300016: Basic Wall Wall 505mm LOWER-NZE [356121]
+    4300018: Basic Wall Wall 505mm LOWER-NZE [356123]
+    4300020: Basic Wall Wall 505mm UPPER [356124]
+    4300022: Basic Wall Wall 505mm LOWER-NZE [356125]
+    4300024: Basic Wall Wall 100mm [356127]
+    4300026: Basic Wall Wall 200mm [356136]
+    4300028: Doors - Residential - Interior - Hinged Single - Suite Entry - 3'-0"
+      - D2 [356166]
+    4300030: Basic Wall Wall 505mm UPPER [356172]
+    4300032: Basic Wall Wall 505mm UPPER [356181]
+    4300034: Basic Wall Wall 505mm LOWER-NZE [356205]
+    4300036: Basic Wall Wall 505mm LOWER-NZE [356206]
+    4300038: Door_HM Single 915x2135mm_Masonry_Solid Flush [356209]
+    4300040: Basic Roof Generic Roof - 300mm [356232]
+    4300042: Door_HM Single 915x2135mm_Masonry_Solid Flush [356239]
+    4300044: M_Fixed 800W x 1800H [356273]
+    4300046: Internal_Door_-_openable_in_3D_13628 42" [356281]
+    4300048: Door ENTRANCE 915x2135mm_Masonry_Solid Flush [356290]
+    4300050: System Panel CURT_Glazed-Mirrored [356357]
+    4300052: Rectangular Mullion CW - 50x200 - retail [356366]
+    4300054: Rectangular Mullion CW - 50x200 - retail - silicone joint [356376]
+    4300056: M_Fixed 1000 x 1400 mm [356403]
+    4300058: Basic Wall PATIO SCREEN [356405]
+    4300060: Door ENTRANCE 915x2135mm_Masonry_Solid Flush [356415]
+    4300062: 08-Door-Curtain Wall Door - Single Swing [356444]
+    4300064: ANTENNA1 ANTENNA [356665]
+    4300066: qf_garland_mst43_cat Requires Type Catalog QF_Garland_MST43_cat.txt [376022]
+    4300068: Appliance - Fridge - Side By Side Fridge [376027]
+    4300070: Basic Wall Generic - 200mm [381160]
+    4300072: M_Fixed 1500 x 1200mm [419126]
+    4300074: BAY WINDOW 72" [432040]
+    4300076: Washroom Accessories - Robe Hook_3D Base [438461]
+    4300078: POCHE WINDOW 72" [458512]
+    4300080: Basic Wall 505mm - FOUNDATION WALL [465596]
+    4300082: Floor Generic Floor - 400mm [489092]
+    4300084: PARAPET PARAPET [515048]
+    4300086: signal light signal light [552274]
+    4300088: signal light signal light [552531]
+    4300090: SERVICE STAIR SERVICE STAIR [563026]
+    4300092: PV PV [567071]
+    4300094: Precast Stair Stair [567795]
+    4300096: Railing Railing 1 [567796]
+    4300098: Monolithic Run 190mm Depth [567804]
+    4300100: Door ENTRANCE 915x2135mm_Masonry_Solid Flush [595025]
+    4300102: Door ENTRANCE 915x2135mm_Masonry_Solid Flush [595030]
+    4300104: Door ENTRANCE 915x2135mm_Masonry_Solid Flush [595036]
+    4300106: Door ENTRANCE 915x2135mm_Masonry_Solid Flush [595037]
+    4300108: Floor Concrete Tarmac [595046]
+    4300110: SCISSOR TRUSS2 SCISSOR TRUSS [694661]
+    4300112: M_Curtain Wall Sgl Glass M_Curtain Wall Sgl Glass [768547]
+    4300114: Curtain_wall_folding_doors_11229 Curtain_wall_folding_doors_11229 [768549]
+    4300116: FRAMED PANEL Spandrel [768553]
+    4300118: FRAMED PANEL Glazed [768565]
+    4300120: Rectangular Mullion CW - 50x200 - black [768566]
+    4300122: M_Curtain Wall Sgl Glass M_Curtain Wall Sgl Glass [768573]
+    4300124: System Panel CURT_Glazed [824745]
+    4300126: M_Curtain Wall Sgl Glass M_Curtain Wall Sgl Glass [850173]
+    4300128: M_Curtain Wall Sgl Glass M_Curtain Wall Sgl Glass [850191]
+    4300130: Rectangular Mullion CW - 150x200 - black [850221]
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '-'
+    second: {fileID: 2100000, guid: acc60d3d873575d4daf8ac97792ed378, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 08 Frame - Solid Wood
+    second: {fileID: 2100000, guid: 8017e39f0cce0af48a72e33b235b90d4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 22 Fixture - Faucet - Shower
+    second: {fileID: 2100000, guid: 75a60d0133e62804fba839a83cfe4227, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 22 Fixture - Faucet - Sink
+    second: {fileID: 2100000, guid: 01c61cb6c6b9bd44ebe4660b34468bfc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 22 Fixture - Flush Valve
+    second: {fileID: 2100000, guid: 274ce57dd5ac52548b05c9294864b8cd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 22 Fixture - Shower
+    second: {fileID: 2100000, guid: 82a23b4624b5df8409d6ae7acc9b3d1c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 22 Fixture - Sink
+    second: {fileID: 2100000, guid: 282e7884c2d7eb94b9ae290adfefb7ab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 22 Fixture - Toilet
+    second: {fileID: 2100000, guid: b8b209c2eb1fa8148aeb440f86490c50, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BRICK LOWER
+    second: {fileID: 2100000, guid: 8460bb57971829e49b6965f85a4ffa65, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BRICK UPPER
+    second: {fileID: 2100000, guid: 49d5da5e736212b49b42a0c946bb3c7b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Concrete
+    second: {fileID: 2100000, guid: 62a0f84cc3224cc42873e3949938d955, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Concrete DARK
+    second: {fileID: 2100000, guid: 1321db49f423d0a41a9e2f641409632e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Concrete, Precast
+    second: {fileID: 2100000, guid: d582e8bd7bb71e64c9b0adc6e0073602, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DOOR EXT - FRAME
+    second: {fileID: 2100000, guid: 973af084fe6adff4da41f32db2ed5133, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DOOR EXT - PANEL
+    second: {fileID: 2100000, guid: ab20d982b9c276240a168ec036b9ee8b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Default Wall
+    second: {fileID: 2100000, guid: f494ae7081a46b943a1ea4da1a6f032e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Door - Frame
+    second: {fileID: 2100000, guid: 6a5f0455010f328419f37d62f85870b3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Door - Panel
+    second: {fileID: 2100000, guid: f76f10c217fe2a048963b9184570556d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Drywall
+    second: {fileID: 2100000, guid: 581dab90ba59382458fe58b774881358, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Generic
+    second: {fileID: 2100000, guid: 01c5bde925feef943a962dc46e4a53e5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass
+    second: {fileID: 2100000, guid: ba2e0970656e80b4d840a39152548013, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass - Mirror
+    second: {fileID: 2100000, guid: 6527cb6193447d640b54979da757de2b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Iowa 6 Burner Gas BBQ - Base
+    second: {fileID: 2100000, guid: e01280b5c5bff9047bf7a205782a5857, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Iowa 6 Burner Gas BBQ - Base Handle
+    second: {fileID: 2100000, guid: b7768b4ef48744548b1112e83e60d8c1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Iowa 6 Burner Gas BBQ - Caster
+    second: {fileID: 2100000, guid: 14308befecc893c40a87d0fd4302c787, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Iowa 6 Burner Gas BBQ - Chrome
+    second: {fileID: 2100000, guid: 2b722cdde3c60894eb2031075445b50d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Iowa 6 Burner Gas BBQ - Dial
+    second: {fileID: 2100000, guid: ca0f2461f2a4fc34e993a2b6c33963d9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Iowa 6 Burner Gas BBQ - Extras
+    second: {fileID: 2100000, guid: db566d4de35dcf146967bea35ee46e49, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Iowa 6 Burner Gas BBQ - Handle
+    second: {fileID: 2100000, guid: 937cd14d688c7484ba991dff7885265a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: METAL BLACK
+    second: {fileID: 2100000, guid: 8350ea884c8214a468d9d67143f13abd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MULLION - METAL
+    second: {fileID: 2100000, guid: f9ce3c26d88d5844ba8bde7584583711, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: 6557ee86835fbc940af8df201ba69882, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: QF_Finishes_Black
+    second: {fileID: 2100000, guid: d186c7adb78342f4ba84b297ea4bae45, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: QF_Finishes_Dark Grey
+    second: {fileID: 2100000, guid: 83793ff744437114a94f2bd3b4fb48d4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: QF_Finishes_Stainless Steel
+    second: {fileID: 2100000, guid: 633cefe822a770d44a0355dd28809f3e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Roofing, EPDM Membrane
+    second: {fileID: 2100000, guid: 7940bec4cc1884d4aa76f63b5ddb7c3e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SOLAR PANEL
+    second: {fileID: 2100000, guid: eeb8cf67c6985544e9e187cad47445e0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Steel, Black
+    second: {fileID: 2100000, guid: eba154d954865094989f41b7dead4f75, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Subgrade
+    second: {fileID: 2100000, guid: e743b4f6a8036e44f9e69c49f1e18480, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Traffic light (Body)
+    second: {fileID: 2100000, guid: 2d088c1a5287f5c469cab7a73d79453b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Trafficlight - Bulb glass 1
+    second: {fileID: 2100000, guid: ad61cdaaa3e569345a4e0584908a3faa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Trafficlight - Bulb glass 2
+    second: {fileID: 2100000, guid: 544301767a8f39440a05e8a9698019ca, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wood - Ponderosa Pine - finished White
+    second: {fileID: 2100000, guid: f41b3de3612112843a6fe2f8bb5885eb, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
